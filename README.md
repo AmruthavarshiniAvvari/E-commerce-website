@@ -79,8 +79,6 @@ ADMIN Module (http://localhost:8080/admin)
 
 - **Star++** ⭐  if you  find helpful.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-<h3 align="left">If you found this valuable and want to return the favour, then</h3>
-<p><a href="https://www.buymeacoffee.com/gajerajay9I"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gajerajay9" /></a></p><br><br>
 
 
 
